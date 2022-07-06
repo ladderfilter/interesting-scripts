@@ -21,7 +21,6 @@ def get_no_in_ascending(num):
 
 
 def get_no_in_descending(num):
-  
     ## zero padding
     if num < 100:
         l = list(str(num)) + ['0']
