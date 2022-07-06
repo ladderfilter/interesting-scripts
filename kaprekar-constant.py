@@ -7,7 +7,7 @@ steps:
 5. If the answer is 495, stop
    Else, repeat steps 2, 3 and 4 until the result is 495
    
-The catch is, the result is always 495. This is called the Karpekar constant after the mathematician who discovered this pattern.
+The catch is, the result is always 495. This is called the Kaprekar constant after the mathematician who discovered this pattern.
 
 - If the difference is a 2 digit number, pad a zero. For example, 110 - 011 = 99. The next step would be, 990 - 099...
 '''
